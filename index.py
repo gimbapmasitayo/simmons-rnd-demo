@@ -24,8 +24,27 @@ os.environ.setdefault("PORTAL_SHOW_SOON", "0")
 from flask import request, jsonify, redirect   # noqa: E402
 import server, stats                             # noqa: E402
 
-app = server.app
 SNAPSHOT = os.environ.get("DEMO_SNAPSHOT_DATE", "")
+
+
+class _DecodePath:
+    """Vercel 은 한글 주소(/성적서)를 %EC%84%B1… 그대로 넘긴다. WSGI 규약대로 풀어서 Flask 가 라우트를 찾게 한다."""
+    def __init__(self, wsgi):
+        self.wsgi = wsgi
+
+    def __call__(self, environ, start_response):
+        from urllib.parse import unquote
+        p = environ.get("PATH_INFO", "")
+        if "%" in p:
+            try:
+                environ["PATH_INFO"] = unquote(p, encoding="utf-8", errors="strict").encode("utf-8").decode("latin-1")
+            except Exception:
+                pass
+        return self.wsgi(environ, start_response)
+
+
+server.app.wsgi_app = _DecodePath(server.app.wsgi_app)
+app = server.app
 
 _demo_rows, _demo_settings = stats.demo_rows()
 stats.load = lambda: list(_demo_rows)
