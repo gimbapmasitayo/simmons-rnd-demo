@@ -1,0 +1,1295 @@
+{
+ "settings": {
+  "lead_ready": 90,
+  "lead_soon": 30
+ },
+ "products": [
+  {
+   "id": "70aec7f5",
+   "cat1": "매트리스",
+   "cat2": "Black",
+   "name": "Black 모델 1",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "f533f19c",
+   "cat1": "매트리스",
+   "cat2": "Black",
+   "name": "Black 모델 2",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "1f878177",
+   "cat1": "매트리스",
+   "cat2": "Black",
+   "name": "Black 모델 3",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "7afcf702",
+   "cat1": "매트리스",
+   "cat2": "Black",
+   "name": "Black 모델 4",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "fa164f83",
+   "cat1": "매트리스",
+   "cat2": "Black",
+   "name": "Black 모델 5",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "abf1f4d2",
+   "cat1": "매트리스",
+   "cat2": "Black",
+   "name": "Black 모델 6",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "feb31854",
+   "cat1": "매트리스",
+   "cat2": "Black",
+   "name": "Black 모델 7",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "b487b0b9",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 1",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "2ad94568",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 2",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "ae9d6667",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 3",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "6842ac33",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 4",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "8e33b970",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 5",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "55c41619",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 6",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "66d6c838",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 7",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "729f1fb1",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 8",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "60cd4124",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 9",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "2a0148a0",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 10",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "07a87620",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 11",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "f6d4c9b0",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 1",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "4b4d26b7",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 2",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "dfb24f4d",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 3",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "b165ce19",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 4",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "287ff485",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 5",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "5d1c75f3",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 6",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "2de39475",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 7",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "0916ace3",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 8",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "4c87f577",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 9",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "a5580549",
+   "cat1": "매트리스",
+   "cat2": "Online",
+   "name": "Online 모델 10",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "c03772d2",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 1",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "d6b87f54",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 2",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "5e7ba845",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 3",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "ed75f6ae",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 4",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "30568345",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 5",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "4bd0077f",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 6",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "7921255b",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 7",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "f0c8ad6a",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 8",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "59395be2",
+   "cat1": "매트리스",
+   "cat2": "N32",
+   "name": "N32 모델 9",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "bef71a36",
+   "cat1": "매트리스",
+   "cat2": "특판",
+   "name": "특판 모델 1",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "7c067951",
+   "cat1": "매트리스",
+   "cat2": "특판",
+   "name": "특판 모델 2",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "208238b2",
+   "cat1": "매트리스",
+   "cat2": "특판",
+   "name": "특판 모델 3",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "4d08b8ae",
+   "cat1": "매트리스",
+   "cat2": "특판",
+   "name": "특판 모델 4",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "dae10055",
+   "cat1": "매트리스",
+   "cat2": "특판",
+   "name": "특판 모델 5",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "b88c3439",
+   "cat1": "매트리스",
+   "cat2": "특판",
+   "name": "특판 모델 6",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "912e5244",
+   "cat1": "매트리스",
+   "cat2": "특판",
+   "name": "특판 모델 7",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "42d8ec25",
+   "cat1": "매트리스",
+   "cat2": "특판",
+   "name": "특판 모델 8",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "998be1c0",
+   "cat1": "소형 매트리스",
+   "cat2": "",
+   "name": "소형 매트리스 모델 1",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "c070fb7c",
+   "cat1": "소형 매트리스 커버",
+   "cat2": "",
+   "name": "소형 매트리스 커버 모델 1",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "9cc7a54f",
+   "cat1": "침구",
+   "cat2": "",
+   "name": "침구 모델 1",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "124c05fe",
+   "cat1": "침구",
+   "cat2": "N32",
+   "name": "N32 모델 10",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "59e539fb",
+   "cat1": "침구",
+   "cat2": "N32",
+   "name": "N32 모델 11",
+   "discontinued": false,
+   "check": false
+  },
+  {
+   "id": "0b6a8fcb",
+   "cat1": "매트리스",
+   "cat2": "Edition",
+   "name": "Edition 모델 12",
+   "discontinued": true,
+   "check": false
+  },
+  {
+   "id": "954a9bc4",
+   "cat1": "매트리스",
+   "cat2": "",
+   "name": "매트리스 모델 1",
+   "discontinued": true,
+   "check": false
+  },
+  {
+   "id": "c5d9b016",
+   "cat1": "매트리스",
+   "cat2": "",
+   "name": "매트리스 모델 2",
+   "discontinued": true,
+   "check": false
+  }
+ ],
+ "certs": [
+  {
+   "id": "6048f2f6",
+   "kind": "eco",
+   "no": "EL-2026-001",
+   "start": "2025-06-23",
+   "end": "2028-06-22",
+   "issued": "2025-06-24",
+   "first": "2025-06-23",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "70aec7f5",
+    "f533f19c",
+    "1f878177",
+    "7afcf702",
+    "fa164f83",
+    "abf1f4d2"
+   ],
+   "check": false
+  },
+  {
+   "id": "382fd6df",
+   "kind": "radon",
+   "no": "RSP-2026-001",
+   "start": "2026-05-31",
+   "end": "2027-05-30",
+   "issued": "2026-05-28",
+   "first": "2024-05-31",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "70aec7f5",
+    "f533f19c",
+    "1f878177",
+    "7afcf702",
+    "fa164f83",
+    "abf1f4d2",
+    "b487b0b9",
+    "2ad94568",
+    "ae9d6667",
+    "6842ac33",
+    "8e33b970",
+    "55c41619",
+    "66d6c838",
+    "729f1fb1",
+    "60cd4124",
+    "2a0148a0",
+    "07a87620",
+    "f6d4c9b0",
+    "4b4d26b7",
+    "dfb24f4d",
+    "b165ce19",
+    "287ff485",
+    "5d1c75f3",
+    "2de39475",
+    "0916ace3",
+    "4c87f577",
+    "a5580549",
+    "c03772d2",
+    "d6b87f54",
+    "5e7ba845",
+    "ed75f6ae"
+   ],
+   "check": false
+  },
+  {
+   "id": "07ba48a4",
+   "kind": "thoron",
+   "no": "TSP-2026-001",
+   "start": "2026-05-31",
+   "end": "2027-05-30",
+   "issued": "2026-05-28",
+   "first": "2024-05-31",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "70aec7f5",
+    "f533f19c",
+    "1f878177",
+    "7afcf702",
+    "fa164f83",
+    "abf1f4d2",
+    "b487b0b9",
+    "2ad94568",
+    "ae9d6667",
+    "6842ac33",
+    "8e33b970",
+    "55c41619",
+    "66d6c838",
+    "729f1fb1",
+    "60cd4124",
+    "2a0148a0",
+    "07a87620",
+    "f6d4c9b0",
+    "4b4d26b7",
+    "dfb24f4d",
+    "b165ce19",
+    "287ff485",
+    "5d1c75f3",
+    "2de39475",
+    "0916ace3",
+    "4c87f577",
+    "a5580549",
+    "c03772d2",
+    "d6b87f54",
+    "5e7ba845",
+    "ed75f6ae"
+   ],
+   "check": false
+  },
+  {
+   "id": "8da065b7",
+   "kind": "ul",
+   "no": "UL-2026-001~046",
+   "start": "2025-10-27",
+   "end": "2026-10-27",
+   "issued": "2025-10-27",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "70aec7f5",
+    "f533f19c",
+    "1f878177",
+    "7afcf702",
+    "fa164f83",
+    "abf1f4d2",
+    "feb31854",
+    "b487b0b9",
+    "2ad94568",
+    "ae9d6667",
+    "6842ac33",
+    "8e33b970",
+    "55c41619",
+    "66d6c838",
+    "729f1fb1",
+    "60cd4124",
+    "2a0148a0",
+    "07a87620",
+    "f6d4c9b0",
+    "4b4d26b7",
+    "dfb24f4d",
+    "b165ce19",
+    "287ff485",
+    "5d1c75f3",
+    "2de39475",
+    "0916ace3",
+    "4c87f577",
+    "a5580549",
+    "c03772d2",
+    "d6b87f54",
+    "5e7ba845",
+    "ed75f6ae",
+    "30568345",
+    "4bd0077f",
+    "7921255b",
+    "f0c8ad6a",
+    "59395be2",
+    "bef71a36",
+    "7c067951",
+    "208238b2",
+    "4d08b8ae",
+    "dae10055",
+    "b88c3439",
+    "912e5244",
+    "42d8ec25",
+    "998be1c0"
+   ],
+   "check": false
+  },
+  {
+   "id": "7f448efd",
+   "kind": "derma",
+   "no": "DT-2026-001",
+   "start": "2026-02-10",
+   "end": "2036-02-09",
+   "issued": "2026-02-10",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "70aec7f5",
+    "f533f19c",
+    "1f878177",
+    "7afcf702",
+    "fa164f83",
+    "abf1f4d2",
+    "feb31854"
+   ],
+   "check": false
+  },
+  {
+   "id": "657f7a02",
+   "kind": "eco",
+   "no": "EL-2026-002",
+   "start": "2025-04-14",
+   "end": "2028-04-13",
+   "issued": "2025-04-14",
+   "first": "2025-04-14",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "feb31854"
+   ],
+   "check": false
+  },
+  {
+   "id": "5777202e",
+   "kind": "radon",
+   "no": "RSP-2026-002",
+   "start": "2026-05-31",
+   "end": "2027-05-30",
+   "issued": "2026-05-28",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "feb31854"
+   ],
+   "check": false
+  },
+  {
+   "id": "9b465614",
+   "kind": "thoron",
+   "no": "TSP-2026-002",
+   "start": "2026-05-31",
+   "end": "2027-05-30",
+   "issued": "2026-05-28",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "feb31854"
+   ],
+   "check": false
+  },
+  {
+   "id": "51ab7273",
+   "kind": "eco",
+   "no": "EL-2026-003",
+   "start": "2023-11-21",
+   "end": "2026-11-20",
+   "issued": "2024-12-23",
+   "first": "2014-11-21",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "b487b0b9",
+    "2ad94568",
+    "ae9d6667",
+    "6842ac33",
+    "8e33b970",
+    "55c41619",
+    "66d6c838",
+    "729f1fb1",
+    "60cd4124",
+    "2a0148a0",
+    "07a87620"
+   ],
+   "check": false
+  },
+  {
+   "id": "c0e1bac9",
+   "kind": "derma",
+   "no": "",
+   "start": "",
+   "end": "",
+   "issued": "",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "b487b0b9"
+   ],
+   "check": false
+  },
+  {
+   "id": "7e30c253",
+   "kind": "eco",
+   "no": "EL-2026-004",
+   "start": "2024-10-21",
+   "end": "2027-10-20",
+   "issued": "2024-12-23",
+   "first": "2015-10-21",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "f6d4c9b0",
+    "bef71a36",
+    "7c067951",
+    "208238b2",
+    "4d08b8ae",
+    "dae10055",
+    "b88c3439"
+   ],
+   "check": false
+  },
+  {
+   "id": "bd5a717d",
+   "kind": "eco",
+   "no": "EL-2026-005",
+   "start": "2024-07-23",
+   "end": "2027-07-22",
+   "issued": "2024-12-10",
+   "first": "2015-07-23",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "4b4d26b7",
+    "0916ace3",
+    "4c87f577",
+    "a5580549"
+   ],
+   "check": false
+  },
+  {
+   "id": "13361ddf",
+   "kind": "eco",
+   "no": "EL-2026-006",
+   "start": "2023-10-10",
+   "end": "2026-10-09",
+   "issued": "2024-12-10",
+   "first": "2014-10-10",
+   "progress": "갱신 진행 중",
+   "note": "갱신 진행 중",
+   "products": [
+    "dfb24f4d"
+   ],
+   "check": false
+  },
+  {
+   "id": "283c53f1",
+   "kind": "eco",
+   "no": "EL-2026-007",
+   "start": "2022-08-24",
+   "end": "2028-08-23",
+   "issued": "2024-12-19",
+   "first": "2016-08-24",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "b165ce19"
+   ],
+   "check": false
+  },
+  {
+   "id": "9999cc64",
+   "kind": "eco",
+   "no": "EL-2026-008",
+   "start": "2024-05-22",
+   "end": "2027-05-21",
+   "issued": "2024-12-19",
+   "first": "2017-05-22",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "287ff485"
+   ],
+   "check": false
+  },
+  {
+   "id": "96265173",
+   "kind": "eco",
+   "no": "EL-2026-009",
+   "start": "2024-04-02",
+   "end": "2027-04-01",
+   "issued": "2024-12-13",
+   "first": "2015-04-02",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "5d1c75f3",
+    "2de39475"
+   ],
+   "check": false
+  },
+  {
+   "id": "9237cb27",
+   "kind": "eco",
+   "no": "EL-2026-010",
+   "start": "2024-01-15",
+   "end": "2027-01-14",
+   "issued": "2024-01-09",
+   "first": "2021-01-25",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "c03772d2"
+   ],
+   "check": false
+  },
+  {
+   "id": "9c86dc8b",
+   "kind": "vegan",
+   "no": "VG-2026-001",
+   "start": "2024-01-20",
+   "end": "2027-01-19",
+   "issued": "2024-01-20",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "c03772d2"
+   ],
+   "check": false
+  },
+  {
+   "id": "293e7820",
+   "kind": "derma",
+   "no": "DT-2026-003",
+   "start": "2025-08-26",
+   "end": "2035-08-25",
+   "issued": "2025-08-26",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "c03772d2",
+    "d6b87f54",
+    "5e7ba845",
+    "ed75f6ae",
+    "30568345",
+    "4bd0077f",
+    "7921255b",
+    "f0c8ad6a",
+    "59395be2",
+    "998be1c0"
+   ],
+   "check": false
+  },
+  {
+   "id": "7859a98a",
+   "kind": "eco",
+   "no": "EL-2026-011",
+   "start": "2025-06-28",
+   "end": "2028-06-27",
+   "issued": "2025-06-24",
+   "first": "2022-06-28",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "d6b87f54",
+    "5e7ba845",
+    "ed75f6ae"
+   ],
+   "check": false
+  },
+  {
+   "id": "259c82db",
+   "kind": "vegan",
+   "no": "VG-2026-002",
+   "start": "2024-01-20",
+   "end": "2027-01-19",
+   "issued": "2024-01-20",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "d6b87f54"
+   ],
+   "check": false
+  },
+  {
+   "id": "6dc9750a",
+   "kind": "vegan",
+   "no": "VG-2026-003",
+   "start": "2024-01-20",
+   "end": "2027-01-19",
+   "issued": "2024-01-20",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "5e7ba845"
+   ],
+   "check": false
+  },
+  {
+   "id": "d8a4d72f",
+   "kind": "vegan",
+   "no": "VG-2026-004",
+   "start": "2024-01-20",
+   "end": "2027-01-19",
+   "issued": "2024-01-20",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "ed75f6ae"
+   ],
+   "check": false
+  },
+  {
+   "id": "8e8aa312",
+   "kind": "eco",
+   "no": "EL-2026-012",
+   "start": "2024-07-22",
+   "end": "2027-07-21",
+   "issued": "2024-12-10",
+   "first": "2024-07-22",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "30568345",
+    "59395be2"
+   ],
+   "check": false
+  },
+  {
+   "id": "171f0516",
+   "kind": "radon",
+   "no": "RSP-2026-003",
+   "start": "2025-05-31",
+   "end": "2026-05-30",
+   "issued": "2025-05-28",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "30568345",
+    "4bd0077f",
+    "7921255b",
+    "f0c8ad6a",
+    "59395be2",
+    "bef71a36",
+    "7c067951",
+    "208238b2",
+    "dae10055",
+    "42d8ec25"
+   ],
+   "check": false
+  },
+  {
+   "id": "608b6433",
+   "kind": "thoron",
+   "no": "TSP-2026-003",
+   "start": "2025-05-31",
+   "end": "2026-05-30",
+   "issued": "2025-05-28",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "30568345",
+    "4bd0077f",
+    "7921255b",
+    "f0c8ad6a",
+    "59395be2",
+    "bef71a36",
+    "7c067951",
+    "208238b2",
+    "dae10055",
+    "42d8ec25"
+   ],
+   "check": false
+  },
+  {
+   "id": "47ece8fb",
+   "kind": "vegan",
+   "no": "VG-2026-005",
+   "start": "2024-05-11",
+   "end": "2027-05-11",
+   "issued": "2024-05-11",
+   "first": "",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "30568345"
+   ],
+   "check": false
+  },
+  {
+   "id": "e10a93d6",
+   "kind": "eco",
+   "no": "EL-2026-013",
+   "start": "2023-11-24",
+   "end": "2026-11-23",
+   "issued": "2024-12-12",
+   "first": "2023-11-24",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "4bd0077f",
+    "7921255b",
+    "f0c8ad6a"
+   ],
+   "check": false
+  },
+  {
+   "id": "69db612d",
+   "kind": "vegan",
+   "no": "VG-2026-006",
+   "start": "2024-01-20",
+   "end": "2027-01-19",
+   "issued": "2024-01-20",
+   "first": "",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "4bd0077f"
+   ],
+   "check": false
+  },
+  {
+   "id": "786fa61e",
+   "kind": "vegan",
+   "no": "VG-2026-007",
+   "start": "2024-01-20",
+   "end": "2027-01-19",
+   "issued": "2024-01-20",
+   "first": "",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "7921255b"
+   ],
+   "check": false
+  },
+  {
+   "id": "26530bf5",
+   "kind": "vegan",
+   "no": "VG-2026-008",
+   "start": "2024-01-20",
+   "end": "2027-01-19",
+   "issued": "2024-01-20",
+   "first": "",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "f0c8ad6a"
+   ],
+   "check": false
+  },
+  {
+   "id": "d95ed7af",
+   "kind": "vegan",
+   "no": "VG-2026-009",
+   "start": "2024-05-11",
+   "end": "2027-05-11",
+   "issued": "2024-05-11",
+   "first": "",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "59395be2"
+   ],
+   "check": false
+  },
+  {
+   "id": "04fb28f7",
+   "kind": "eco",
+   "no": "EL-2026-014",
+   "start": "2024-01-08",
+   "end": "2027-01-07",
+   "issued": "2024-12-12",
+   "first": "2019-01-08",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "912e5244"
+   ],
+   "check": false
+  },
+  {
+   "id": "32f9b849",
+   "kind": "eco",
+   "no": "EL-2026-015",
+   "start": "2024-03-20",
+   "end": "2027-03-19",
+   "issued": "2024-12-23",
+   "first": "2019-03-20",
+   "progress": "갱신 안 함",
+   "note": "미갱신 결정",
+   "products": [
+    "42d8ec25"
+   ],
+   "check": false
+  },
+  {
+   "id": "4b1197cc",
+   "kind": "radon",
+   "no": "RSP-2026-004",
+   "start": "2026-05-31",
+   "end": "2027-05-30",
+   "issued": "2026-05-28",
+   "first": "2025-02-12",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "998be1c0"
+   ],
+   "check": false
+  },
+  {
+   "id": "bbf460cd",
+   "kind": "thoron",
+   "no": "TSP-2026-004",
+   "start": "2026-05-31",
+   "end": "2027-05-30",
+   "issued": "2025-02-12",
+   "first": "2025-02-12",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "998be1c0"
+   ],
+   "check": false
+  },
+  {
+   "id": "cf101a0b",
+   "kind": "vegan",
+   "no": "VG-2026-010",
+   "start": "2025-01-25",
+   "end": "2027-01-24",
+   "issued": "2025-01-24",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "998be1c0"
+   ],
+   "check": false
+  },
+  {
+   "id": "3f705507",
+   "kind": "ps",
+   "no": "PS-2026-001",
+   "start": "2025-01-31",
+   "end": "2029-01-30",
+   "issued": "2025-01-31",
+   "first": "2025-01-31",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "998be1c0"
+   ],
+   "check": false
+  },
+  {
+   "id": "c548c4dc",
+   "kind": "vegan",
+   "no": "VG-2026-011",
+   "start": "2025-01-25",
+   "end": "2027-01-24",
+   "issued": "2025-01-24",
+   "first": "",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "c070fb7c"
+   ],
+   "check": false
+  },
+  {
+   "id": "75139f4a",
+   "kind": "vegan",
+   "no": "VG-2026-012",
+   "start": "2024-05-11",
+   "end": "2025-05-10",
+   "issued": "2024-05-11",
+   "first": "2024-05-11",
+   "progress": "종료",
+   "note": "종료",
+   "products": [
+    "9cc7a54f"
+   ],
+   "check": false
+  },
+  {
+   "id": "e76d36a0",
+   "kind": "vegan",
+   "no": "VG-2026-013",
+   "start": "2024-10-12",
+   "end": "2026-10-01",
+   "issued": "2024-10-12",
+   "first": "2024-10-12",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "124c05fe"
+   ],
+   "check": false
+  },
+  {
+   "id": "d05555bd",
+   "kind": "vegan",
+   "no": "VG-2026-014",
+   "start": "2024-10-12",
+   "end": "2026-10-01",
+   "issued": "2024-10-12",
+   "first": "2024-10-12",
+   "progress": "인증 중",
+   "note": "",
+   "products": [
+    "59e539fb"
+   ],
+   "check": false
+  },
+  {
+   "id": "934967ba",
+   "kind": "eco",
+   "no": "EL-2026-016",
+   "start": "2023-01-10",
+   "end": "2026-01-09",
+   "issued": "2024-12-19",
+   "first": "2023-01-10",
+   "progress": "종료",
+   "note": "종료",
+   "products": [
+    "0b6a8fcb"
+   ],
+   "check": false
+  },
+  {
+   "id": "893fa7f1",
+   "kind": "radon",
+   "no": "RSP-2026-005",
+   "start": "2024-05-31",
+   "end": "2025-05-30",
+   "issued": "2024-05-31",
+   "first": "",
+   "progress": "종료",
+   "note": "종료",
+   "products": [
+    "0b6a8fcb"
+   ],
+   "check": false
+  },
+  {
+   "id": "cf3d1d36",
+   "kind": "thoron",
+   "no": "TSP-2026-005",
+   "start": "2024-05-31",
+   "end": "2025-05-30",
+   "issued": "2024-05-31",
+   "first": "",
+   "progress": "종료",
+   "note": "종료",
+   "products": [
+    "0b6a8fcb"
+   ],
+   "check": false
+  },
+  {
+   "id": "d7e93192",
+   "kind": "eco",
+   "no": "EL-2026-017",
+   "start": "2022-08-24",
+   "end": "2025-08-23",
+   "issued": "2024-12-19",
+   "first": "2016-08-24",
+   "progress": "종료",
+   "note": "종료",
+   "products": [
+    "954a9bc4",
+    "c5d9b016"
+   ],
+   "check": false
+  }
+ ],
+ "imported": "데모 데이터 (실제 인증번호·제품명 아님)",
+ "updated": "2026-10-06 14:57"
+}

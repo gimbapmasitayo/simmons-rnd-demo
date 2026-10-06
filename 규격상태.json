@@ -1,0 +1,102 @@
+{
+ "생활주변방사선 안전관리법": {
+  "name": "생활주변방사선 안전관리법",
+  "kind": "법률",
+  "promul": "20240123",
+  "enforce": "20240123",
+  "change": "일부개정",
+  "ministry": "원자력안전위원회",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=259305&type=HTML&mobileYn=&efYd=20240123",
+  "label": "생활주변방사선 안전관리법 (법·시행령·시행규칙)",
+  "why": "라돈·토론 성적서의 근거"
+ },
+ "생활주변방사선 안전관리법 시행령": {
+  "name": "생활주변방사선 안전관리법 시행령",
+  "kind": "대통령령",
+  "promul": "20260908",
+  "enforce": "20260908",
+  "change": "일부개정",
+  "ministry": "원자력안전위원회",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289495&type=HTML&mobileYn=&efYd=20260908",
+  "label": "생활주변방사선 안전관리법 (법·시행령·시행규칙)",
+  "why": "라돈·토론 성적서의 근거"
+ },
+ "생활주변방사선 안전관리법 시행규칙": {
+  "name": "생활주변방사선 안전관리법 시행규칙",
+  "kind": "총리령",
+  "promul": "20260908",
+  "enforce": "20260908",
+  "change": "일부개정",
+  "ministry": "원자력안전위원회",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289527&type=HTML&mobileYn=&efYd=20260908",
+  "label": "생활주변방사선 안전관리법 (법·시행령·시행규칙)",
+  "why": "라돈·토론 성적서의 근거"
+ },
+ "전기용품 및 생활용품 안전관리법": {
+  "name": "전기용품 및 생활용품 안전관리법",
+  "kind": "법률",
+  "promul": "20251001",
+  "enforce": "20251001",
+  "change": "타법개정",
+  "ministry": "산업통상부",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=276591&type=HTML&mobileYn=&efYd=20251001",
+  "label": "전기용품 및 생활용품 안전관리법 (법·시행령·시행규칙)",
+  "why": "KC 안전기준의 모법"
+ },
+ "전기용품 및 생활용품 안전관리법 시행령": {
+  "name": "전기용품 및 생활용품 안전관리법 시행령",
+  "kind": "대통령령",
+  "promul": "20260127",
+  "enforce": "20260201",
+  "change": "타법개정",
+  "ministry": "산업통상부",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=282997&type=HTML&mobileYn=&efYd=20260201",
+  "label": "전기용품 및 생활용품 안전관리법 (법·시행령·시행규칙)",
+  "why": "KC 안전기준의 모법"
+ },
+ "전기용품 및 생활용품 안전관리법 시행규칙": {
+  "name": "전기용품 및 생활용품 안전관리법 시행규칙",
+  "kind": "산업통상자원부령",
+  "promul": "20250826",
+  "enforce": "20260827",
+  "change": "일부개정",
+  "ministry": "산업통상부",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=273575&type=HTML&mobileYn=&efYd=20260827",
+  "label": "전기용품 및 생활용품 안전관리법 (법·시행령·시행규칙)",
+  "why": "KC 안전기준의 모법"
+ },
+ "안전기준준수대상생활용품의 안전기준": {
+  "name": "안전기준준수대상생활용품의 안전기준",
+  "kind": "고시",
+  "promul": "20250826",
+  "enforce": "20260827",
+  "change": "일부개정",
+  "ministry": "국가기술표준원",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000263200&type=HTML&mobileYn=",
+  "label": "안전기준준수대상 생활용품의 안전기준 (고시)",
+  "why": "부속서 19 침대 매트리스 — KC 성적서"
+ },
+ "공급자적합성확인대상 생활용품의 안전기준": {
+  "name": "공급자적합성확인대상 생활용품의 안전기준",
+  "kind": "고시",
+  "promul": "20251223",
+  "enforce": "20251229",
+  "change": "일부개정",
+  "ministry": "국가기술표준원",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000270250&type=HTML&mobileYn=",
+  "label": "공급자적합성확인대상 생활용품의 안전기준 (고시)",
+  "why": "가구류"
+ },
+ "어린이제품 공통안전기준": {
+  "name": "어린이제품 공통안전기준",
+  "kind": "고시",
+  "promul": "20221214",
+  "enforce": "20230401",
+  "change": "일부개정",
+  "ministry": "산업통상부",
+  "link": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=admrul&ID=2100000216780&type=HTML&mobileYn=",
+  "label": "어린이제품 공통안전기준 (고시)",
+  "why": "어린이 침대·매트리스"
+ },
+ "_checked": "2026-10-06 09:17"
+}

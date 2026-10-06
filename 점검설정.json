@@ -1,0 +1,10 @@
+{
+ "radon_diff_pct": 30,
+ "temp_min": 15,
+ "temp_max": 30,
+ "humid_min": 30,
+ "humid_max": 70,
+ "photo_required": true,
+ "radon_diff_min_abs": 20,
+ "bg_over_warn": true
+}

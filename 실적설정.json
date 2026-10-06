@@ -1,0 +1,27 @@
+{
+ "manual": {
+  "finished": 40,
+  "material": 30,
+  "kc": 60,
+  "ks": 90
+ },
+ "per_sample": {
+  "finished": 10,
+  "material": 8,
+  "kc": 0,
+  "ks": 0
+ },
+ "program": 10,
+ "baseline": 0,
+ "baseline_note": "",
+ "hourly_rate": 0,
+ "workday_hours": 8,
+ "excluded": [],
+ "estimated": true,
+ "confirm": {
+  "by": "",
+  "date": "",
+  "memo": ""
+ },
+ "prefix": "L"
+}
